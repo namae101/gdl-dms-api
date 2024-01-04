@@ -75,7 +75,7 @@
       "type": "relation",
       "relation": "manyToMany",
       "target": "api::document.document",
-      "inversedBy": "rdocuments"
+      "mappedBy": "rdocuments"
     },
     "rdocuments": {
       "type": "relation",

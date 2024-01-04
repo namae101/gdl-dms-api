@@ -10,7 +10,6 @@ Icon
 .Trashes
 ._*
 
-
 ############################
 # Linux
 ############################
@@ -112,3 +111,5 @@ exports
 dist
 build
 .strapi-updater.json
+.strapi
+.strapi/client/app.js
